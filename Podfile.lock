@@ -1,0 +1,16 @@
+PODS:
+  - IBLinter (0.4.8)
+
+DEPENDENCIES:
+  - IBLinter
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - IBLinter
+
+SPEC CHECKSUMS:
+  IBLinter: 9a6c64dede766dbdec3806fdd72ee0f391734b17
+
+PODFILE CHECKSUM: 3ce8c73d556175a6bf0effe6fbd0316b6508679f
+
+COCOAPODS: 1.6.0.beta.1
